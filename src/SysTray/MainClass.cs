@@ -25,7 +25,7 @@ namespace SysTray
 
             Globals.iconList.Add(new NotifyIcon());
             IconManager trayDSK = new IconManager();
-            trayDSK.IconGenerate(x, 50, "dsk");
+            trayDSK.IconGenerate(x, 50, "dsk");  //need to verify this timer minimum
 
             x++;
 

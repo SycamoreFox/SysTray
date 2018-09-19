@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\src"
+    "\\src\\SysTray",
+    "\\src\\SysTray\\Resources"
   ],
-  "SelectedNode": "\\src\\SysTray.sln",
+  "SelectedNode": "\\index.html",
   "PreviewInSolutionExplorer": false
 }

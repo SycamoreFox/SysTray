@@ -60,7 +60,7 @@ namespace SysTray
 
             g.FillRectangles(theBrush, theRects);
 
-            if (Globals.diskReadValue > 20)
+            if (Globals.diskReadValue > 5)
             {
                 theBrush = new SolidBrush(Globals.colorWhite);
                 thePen = new Pen(Globals.colorWhite);
@@ -88,7 +88,7 @@ namespace SysTray
             g.FillPolygon(theBrush, thePoints);
             g.DrawLines(thePen, thePoints);
 
-            if (Globals.diskWriteValue > 20)
+            if (Globals.diskWriteValue > 5)
             {
                 theBrush = new SolidBrush(Globals.colorWhite);
                 thePen = new Pen(Globals.colorWhite);

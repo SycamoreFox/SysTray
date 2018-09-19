@@ -25,7 +25,7 @@ namespace SysTray
 
             Globals.iconList.Add(new NotifyIcon());
             IconManager trayDSK = new IconManager();
-            trayDSK.IconGenerate(x, 100, "dsk");
+            trayDSK.IconGenerate(x, 50, "dsk");
 
             x++;
 

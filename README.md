@@ -2,8 +2,7 @@
 ![Crafted by](assets/craftedby.png)<br>
 *A lean system tray monitor for your Windows machine*
 
-[Download the latest version](https://github.com/david-osborne/SysTray/releases/tag/v0.1-beta)
-*Executable download - currently unsigned*
+[Download the latest version](https://github.com/david-osborne/SysTray/releases/tag/v0.1-beta)  (*Executable download - currently unsigned*)
 
 
 You can use the [editor on GitHub](https://github.com/SycamoreFox/SysTray/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

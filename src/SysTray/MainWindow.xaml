@@ -23,6 +23,7 @@
         <SolidColorBrush x:Key="colorRed" Color="#FFE81123"/>
         <SolidColorBrush x:Key="colorOrange" Color="DarkOrange"/>
         <SolidColorBrush x:Key="colorBlue" Color="#FF0078D7"/>
+        <SolidColorBrush x:Key="colorWhite" Color="#FFFFFFFF"/>
         <!--custom checkbox style-->
         <Style TargetType="{x:Type CheckBox}" x:Key="CheckboxStyle">
             <Setter Property="Template">

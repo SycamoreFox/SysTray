@@ -1,3 +1,4 @@
+![SysTray logo](assets/systray.png)
 # SysTray
 *A lean system tray monitor for your Windows machine*
 

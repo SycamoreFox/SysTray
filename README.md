@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+# SysTray
+*A lean mean system tray monitor for your Windows machine*
 
 You can use the [editor on GitHub](https://github.com/SycamoreFox/SysTray/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

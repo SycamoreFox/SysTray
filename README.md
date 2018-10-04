@@ -2,14 +2,14 @@
 ![Crafted by](assets/craftedby.png)<br>
 *A lean, clean, system tray monitor for your Windows machine*
 
-![Systray In Taskbar](assets/Desktop-00.png)<br>
+![Systray In Taskbar](assets/Desktop-00.png)
 
 ### Download SysTray
 [Download the latest version](https://github.com/david-osborne/SysTray/releases/tag/v0.1-beta)  (*Executable download - currently unsigned*)
 
 ### What is SysTray?
 ![SysTray Animated](assets/SysTray.gif)<br>
-Systray is a native Windows application that provides you with some helpful information about the state of your machine:
+Systray is a little application that runs in Windows system tray, and provides you with some helpful information about the state of your machine:
 - CPU usage
 - Memory usage
 - Disc read/write activity
@@ -17,9 +17,12 @@ Systray is a native Windows application that provides you with some helpful info
 - Num Lock key state
 
 ### Why SysTray?
-You can use the [editor on GitHub](https://github.com/SycamoreFox/SysTray/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Many Windows users want to know at a glance how much memory is being used? / are the disk drives in use? / is my Caps lock key on? / etc.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Windows does not come with such functionality 'out of the box' - thus SysTray
+
+### How much does it cost?
+SysTray is Free and Open Source Software (FOSS).  It's yours to use freely.
 
 ### Support or Contact
 

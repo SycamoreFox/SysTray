@@ -2,10 +2,13 @@
 ![Crafted by](assets/craftedby.png)<br>
 *A lean, clean, system tray monitor for your Windows machine*
 
+![Systray In Taskbar](assets/Desktop-00.png)<br>
+
 ### Download SysTray
 [Download the latest version](https://github.com/david-osborne/SysTray/releases/tag/v0.1-beta)  (*Executable download - currently unsigned*)
 
 ### What is SysTray?
+![SysTray Animated](assets/SysTray.gif)<br>
 Systray is a native Windows application that provides you with some helpful information about the state of your machine:
 - CPU usage
 - Memory usage

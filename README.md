@@ -22,7 +22,10 @@ Many Windows users want to know at a glance how much memory is being used? / are
 Windows does not come with such functionality 'out of the box' - thus SysTray
 
 ### How much does it cost?
-SysTray is Free and Open Source Software (FOSS).  It's yours to use freely.
+SysTray is Free and Open Source Software (FOSS).  It's yours to use freely.  I hope you find it enjoyable.
+
+### Why did you make it?
+As a daily user of Windows who is usually running lots of programs at a time, at times I'd find my computer unresponsive.  Was the memory consumed?  Was the processor fully utilized?  Were my disc drives spinning at the speed of light?  Being a developer, I wanted to provide myself with information about the state of my computer to answer these questions.  After I got so far along into writing the application, I figured others could find it of use as well.
 
 ### Support or Contact
 

@@ -40,7 +40,7 @@ namespace SysTray
             //web link
             ToolStripLabel labelWebLink = new ToolStripLabel
             {
-                Text = "systray.github.io",
+                Text = "david-osborne.github.io/SysTray",
                 IsLink = true,
                 LinkBehavior = LinkBehavior.HoverUnderline
             };
@@ -126,7 +126,7 @@ namespace SysTray
 
         private void LabelWebLink_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://www.google.com");
+            System.Diagnostics.Process.Start("https://david-osborne.github.io/SysTray/");
         }
 
         private void ItemExitOnClick(object sender, EventArgs e)

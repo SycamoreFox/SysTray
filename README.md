@@ -25,7 +25,11 @@ Windows does not come with such functionality 'out of the box' - thus SysTray
 SysTray is Free and Open Source Software (FOSS).  It's yours to use freely.  I hope you find it enjoyable.
 
 ### Why did you make it?
-As a daily user of Windows who is usually running lots of programs at a time, at times I'd find my computer unresponsive.  Was the memory consumed?  Was the processor fully utilized?  Were my disc drives spinning at the speed of light?  Being a developer, I wanted to provide myself with information about the state of my computer to answer these questions.  After I got so far along into writing the application, I figured others could find it of use as well.
+As a daily user of Windows who is usually running lots of programs at a time, at times I'd find my computer unresponsive.  Was the memory consumed?  Was the processor fully utilized?  Were my disc drives spinning at the speed of light?  Being a developer, I wanted to provide myself with information about the state of my computer to answer these questions.  After I got so far along into writing the application, I figured others could find it of use as well.  So I am putt it on GitHub for others to enjoy, and to provide transparency for the code and what it is doing.
+
+No spyware.  No keyloggers.  No cryptomining.  No malware.  No adware.  No evil-doers.
+
+Just a simple application to add some functionality to your Windows computer.
 
 ### Support or Contact
 

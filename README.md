@@ -2,15 +2,13 @@
 ![Crafted by](assets/craftedby.png)<br>
 *A lean system tray monitor for your Windows machine*
 
+###### SysTray sets up camp in your task bar's system tray<br>
 ![Systray In Taskbar](assets/SysTray_Desktop_01.png)
-###### SysTray sets up camp in your task bar's system tray
 
-###### You can right click on the icons to see a context menu
-
+###### You can right click on the icons to see a context menu<br>
 ![Right Click Menu](assets/SysTray_desktop2.png)
 
-###### SysTray is configurable to your liking
-
+###### SysTray is configurable to your liking<br>
 ![Settings Window](assets/SysTray_desktop_03.png)
 
 ### Download SysTray

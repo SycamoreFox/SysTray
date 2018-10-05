@@ -2,6 +2,10 @@
 ### What is SysTray?
 ![SysTray Animated](assets/SysTray.gif)<br>
 Systray is a little application that runs in the Windows system tray, and provides you with some helpful information about the state of your machine.
+### Why SysTray?
+Many Windows users want to know at a glance how their computer is performing.  Windows does not come with such functionality 'out of the box' - thus SysTray
+### How much does it cost?
+SysTray is Free and Open Source Software (FOSS).  It's yours to use freely.  I hope you find it useful and enjoyable.
 ### SysTray Features:
 - CPU-Processor usage
 - RAM-Memory usage
@@ -16,12 +20,6 @@ Just a simple application to add some functionality to your Windows computer.
 ![Right Click Menu](assets/SysTray_desktop2.png)
 ##### Configurable to your liking<br>
 ![Settings Window](assets/SysTray_desktop_03.png)
-
-### Why SysTray?
-Many Windows users want to know at a glance how their computer is performing.  Windows does not come with such functionality 'out of the box' - thus SysTray
-
-### How much does it cost?
-SysTray is Free and Open Source Software (FOSS).  It's yours to use freely.  I hope you find it useful and enjoyable.
 
 ### Support or Contact
 Having trouble with SysTray?  [Contact me](mailto://david.osborne@outlook.com) and I’ll help you sort it out.

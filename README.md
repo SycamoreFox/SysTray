@@ -2,17 +2,16 @@
 ### What is SysTray?
 ![SysTray Animated](assets/SysTray.gif)<br>
 Systray is a little application that runs in the Windows system tray, and provides you with some helpful information about the state of your machine.
-
-**No spyware.  No keyloggers.  No cryptomining.  No malware.  No adware.  No evil supervillians.**
-
-Just a simple application to add some functionality to your Windows computer.
-
 ### SysTray Features:
 - CPU-Processor usage
 - RAM-Memory usage
 - Disc drive(s) read/write activity
 - Caps Lock key state
 - Num Lock key state
+
+**No spyware.  No keyloggers.  No cryptomining.  No malware.  No adware.  No evil supervillians.**
+
+Just a simple application to add some functionality to your Windows computer.
 ##### Right click on the icons to see a context menu<br>
 ![Right Click Menu](assets/SysTray_desktop2.png)
 ##### Configurable to your liking<br>

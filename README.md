@@ -16,15 +16,15 @@ Systray is a little application that runs in Windows system tray, and provides y
 - Caps Lock key state
 - Num Lock key state
 
+**No spyware.  No keyloggers.  No cryptomining.  No malware.  No adware.  No evil supervillians.**
+
+Just a simple application to add some functionality to your Windows computer.
+
 ### Why SysTray?
 Many Windows users want to know at a glance how their computer is performing.  Windows does not come with such functionality 'out of the box' - thus SysTray
 
 ### How much does it cost?
 SysTray is Free and Open Source Software (FOSS).  It's yours to use freely.  I hope you find it useful and enjoyable.
-
-**No spyware.  No keyloggers.  No cryptomining.  No malware.  No adware.  No evil supervillians.**
-
-Just a simple application to add some functionality to your Windows computer.
 
 ### Support or Contact
 

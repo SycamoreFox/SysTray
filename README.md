@@ -1,6 +1,6 @@
-<img src="assets/SysTray_desktop.png" width="640" height="243"><br>
+<img src="assets/SysTray_desktop.png" width="640"><br>
 ### What is SysTray?
-<img src="assets/SysTray.gif" width="120" height="26"><br>
+<img src="assets/SysTray.gif" width="120"><br>
 Systray is a little application that runs in the Windows system tray, and provides you with some helpful information about the state of your machine.
 ### Why SysTray?
 Many Windows users want to know at a glance how their computer is performing.  Windows does not come with such functionality 'out of the box' - thus SysTray
@@ -17,9 +17,9 @@ Nothing.  SysTray is yours to use freely.  I hope you find it useful and enjoyab
 
 Just a simple application to add some functionality to your Windows computer.
 ##### Right click on the icons to see a context menu<br>
-<img src="assets/SysTray_menu.png" width="640" height="240"><br>
+<img src="assets/SysTray_menu.png" width="640"><br>
 ##### Configurable to your liking<br>
-<img src="assets/SysTray_desktop_03.png" width="640" height="400"><br>
+<img src="assets/SysTray_desktop_03.png" width="640"><br>
 
 ### Support or Contact
 Having trouble with SysTray?  You can either **[file an issue](https://github.com/david-osborne/SysTray/issues/new/choose)** here on GitHub, or **[contact me](mailto://david.osborne@outlook.com)** and I’ll help you sort it out.

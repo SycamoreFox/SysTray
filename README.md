@@ -10,8 +10,6 @@ Systray is a little application that runs in the Windows system tray, and provid
 **No spyware.  No keyloggers.  No cryptomining.  No malware.  No adware.  No evil supervillians.**
 
 Just a simple application to add some functionality to your Windows computer.
-
-##### SysTray sets up camp in your task bar's system tray<br>
 ![Systray In Taskbar](assets/SysTray_Desktop_01.png)
 
 ### SysTray Features:

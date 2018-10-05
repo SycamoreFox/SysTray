@@ -1,6 +1,5 @@
 ![SysTray logo](assets/systray.png)<br>
 ![Crafted by](assets/craftedby.png)<br>
-*A lean system tray monitor for your Windows machine*
 
 *scroll to the bottom for a download link*
 

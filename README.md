@@ -1,6 +1,6 @@
 ![SysTray logo](assets/systray.png)<br>
 ![Crafted by](assets/craftedby.png)<br>
-*A lean, clean, system tray monitor for your Windows machine*
+*A lean system tray monitor for your Windows machine*
 
 ![Systray In Taskbar](assets/Desktop-00.png)
 

@@ -1,4 +1,5 @@
 ![SysTray logo](assets/systray.png)<br>
+![Systray In Taskbar](assets/SysTray_Desktop_01.png)
 ![Crafted by](assets/craftedby.png)<br>
 
 *scroll to the bottom for a download link*
@@ -10,7 +11,6 @@ Systray is a little application that runs in the Windows system tray, and provid
 **No spyware.  No keyloggers.  No cryptomining.  No malware.  No adware.  No evil supervillians.**
 
 Just a simple application to add some functionality to your Windows computer.
-![Systray In Taskbar](assets/SysTray_Desktop_01.png)
 
 ### SysTray Features:
 - CPU-Processor usage

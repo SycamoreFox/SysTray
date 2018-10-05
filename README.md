@@ -17,7 +17,7 @@ SysTray is Free and Open Source Software (FOSS).  It's yours to use freely.  I h
 
 Just a simple application to add some functionality to your Windows computer.
 ##### Right click on the icons to see a context menu<br>
-![Right Click Menu](assets/SysTray_desktop2.png)
+![Right Click Menu](assets/SysTray_menu.png)
 ##### Configurable to your liking<br>
 ![Settings Window](assets/SysTray_desktop_03.png)
 

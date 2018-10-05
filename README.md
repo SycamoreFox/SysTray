@@ -5,7 +5,7 @@
 
 ### What is SysTray?
 ![SysTray Animated](assets/SysTray.gif)<br>
-Systray is a little application that runs in Windows system tray, and provides you with some helpful information about the state of your machine.
+Systray is a little application that runs in the Windows system tray, and provides you with some helpful information about the state of your machine.
 
 **No spyware.  No keyloggers.  No cryptomining.  No malware.  No adware.  No evil supervillians.**
 

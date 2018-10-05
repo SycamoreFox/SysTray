@@ -25,4 +25,4 @@ Just a simple application to add some functionality to your Windows computer.
 Having trouble with SysTray?  You can either **[file an issue](https://github.com/david-osborne/SysTray/issues/new/choose)** here on GitHub, or **[contact me](mailto://david.osborne@outlook.com)** and I’ll help you sort it out.
 
 ### Download SysTray
-**[DOWNLOAD the latest version](https://github.com/david-osborne/SysTray/releases/tag/v0.1-beta)**  *Executable (.exe) download - currently unsigned*
+**[DOWNLOAD the latest release](https://github.com/david-osborne/SysTray/releases/latest)**  *Executable (.exe) download - currently unsigned*

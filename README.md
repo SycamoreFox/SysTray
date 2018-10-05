@@ -32,4 +32,4 @@ Just a simple application to add some functionality to your Windows computer.
 
 ### Support or Contact
 
-Having trouble with SysTray? [contact me](mailto://systray@outlook.com) and I’ll help you sort it out.
+Having trouble with SysTray?  [Contact me](mailto://systray@outlook.com) and I’ll help you sort it out.

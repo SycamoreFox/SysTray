@@ -1,5 +1,4 @@
-![SysTray logo](assets/systray.png) ![Crafted by](assets/craftedby.png)<br>
-![Systray In Taskbar](assets/SysTray_Desktop_01.png)<br>
+![Systray](assets/SysTray_desktop.png)<br>
 
 *scroll to the bottom for a download link*
 

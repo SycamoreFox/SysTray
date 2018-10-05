@@ -5,7 +5,7 @@
 ![Systray In Taskbar](assets/Desktop-00.png)
 
 ### Download SysTray
-[Download the latest version](https://github.com/david-osborne/SysTray/releases/tag/v0.1-beta)  (*Executable download - currently unsigned*)
+**[DOWNLOAD the latest version](https://github.com/david-osborne/SysTray/releases/tag/v0.1-beta)**  *Executable (.exe) download - currently unsigned*
 
 ### What is SysTray?
 ![SysTray Animated](assets/SysTray.gif)<br>
@@ -23,7 +23,8 @@ Many Windows users want to know at a glance how their computer is performing.  W
 SysTray is Free and Open Source Software (FOSS).  It's yours to use freely.  I hope you find it useful and enjoyable.
 
 ### Why did you make it?
-As a daily user of Windows who is usually running many programs at once, at times I'd find my computer unresponsive.  Was the memory consumed?  Was the processor fully utilized?  Were my disc drives spinning at the speed of light?  Being a developer, I wanted to provide myself with information about the state of my computer to answer these questions.  After I got so far along into writing the application, I figured others could find it of use as well.  So I am putting it on GitHub for others to enjoy, and to provide transparency of the code and what it is doing.
+As a daily user *(dare I say 'power-user')* of Windows who is usually running many programs at once, at times I'd find my computer unresponsive.  Was all the memory consumed?  Was the processor fully utilized?  Were my disc drives spinning at the speed of light?<br>
+I wanted to provide myself with information about the state of my computer to answer these questions.  After I got so far along into writing the application, I figured others could find it of use as well.  So I am putting it on GitHub for others to enjoy, and to provide transparency of the code and what it is doing.
 
 **No spyware.  No keyloggers.  No cryptomining.  No malware.  No adware.  No evil supervillians.**
 

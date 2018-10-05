@@ -4,10 +4,8 @@
 
 ###### SysTray sets up camp in your task bar's system tray<br>
 ![Systray In Taskbar](assets/SysTray_Desktop_01.png)
-
 ###### You can right click on the icons to see a context menu<br>
 ![Right Click Menu](assets/SysTray_desktop2.png)
-
 ###### SysTray is configurable to your liking<br>
 ![Settings Window](assets/SysTray_desktop_03.png)
 

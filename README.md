@@ -2,7 +2,7 @@
 ![Crafted by](assets/craftedby.png)<br>
 *A lean system tray monitor for your Windows machine*
 
-![Systray In Taskbar](assets/Desktop-00.png)
+![Systray In Taskbar](assets/SysTray_desktop_01.png)![Right Click Menu](assets/SysTray_desktop_02.png)
 
 ### Download SysTray
 **[DOWNLOAD the latest version](https://github.com/david-osborne/SysTray/releases/tag/v0.1-beta)**  *Executable (.exe) download - currently unsigned*

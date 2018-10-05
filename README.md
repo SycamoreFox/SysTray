@@ -13,9 +13,9 @@ Just a simple application to add some functionality to your Windows computer.
 - Disc drive(s) read/write activity
 - Caps Lock key state
 - Num Lock key state
-##### You can right click on the icons to see a context menu<br>
+##### Right click on the icons to see a context menu<br>
 ![Right Click Menu](assets/SysTray_desktop2.png)
-##### SysTray is configurable to your liking<br>
+##### Configurable to your liking<br>
 ![Settings Window](assets/SysTray_desktop_03.png)
 
 ### Why SysTray?

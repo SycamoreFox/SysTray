@@ -1,7 +1,5 @@
 ![Systray](assets/SysTray_desktop.png)<br>
 
-*scroll to the bottom for a download link*
-
 ### What is SysTray?
 ![SysTray Animated](assets/SysTray.gif)<br>
 Systray is a little application that runs in the Windows system tray, and provides you with some helpful information about the state of your machine.

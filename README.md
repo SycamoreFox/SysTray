@@ -22,7 +22,7 @@ Just a simple application to add some functionality to your Windows computer.
 ![Settings Window](assets/SysTray_desktop_03.png)
 
 ### Support or Contact
-Having trouble with SysTray?  You can either [file an issue](https://github.com/david-osborne/SysTray/issues/new/choose) here on GitHub, or [contact me](mailto://david.osborne@outlook.com) and I’ll help you sort it out.
+Having trouble with SysTray?  You can either **[file an issue](https://github.com/david-osborne/SysTray/issues/new/choose)** here on GitHub, or **[contact me](mailto://david.osborne@outlook.com)** and I’ll help you sort it out.
 
 ### Download SysTray
 **[DOWNLOAD the latest version](https://github.com/david-osborne/SysTray/releases/tag/v0.1-beta)**  *Executable (.exe) download - currently unsigned*

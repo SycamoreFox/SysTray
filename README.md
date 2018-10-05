@@ -10,9 +10,9 @@
 ### What is SysTray?
 ![SysTray Animated](assets/SysTray.gif)<br>
 Systray is a little application that runs in Windows system tray, and provides you with some helpful information about the state of your machine:
-- CPU usage
-- Memory usage
-- Disc read/write activity
+- CPU-Processor usage
+- RAM-Memory usage
+- Disc drive(s) read/write activity
 - Caps Lock key state
 - Num Lock key state
 

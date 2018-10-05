@@ -17,9 +17,7 @@ Systray is a little application that runs in Windows system tray, and provides y
 - Num Lock key state
 
 ### Why SysTray?
-Many Windows users want to know at a glance how much memory is being used? / are the disk drives in use? / is my Caps lock key on? / etc.
-
-Windows does not come with such functionality 'out of the box' - thus SysTray
+Many Windows users want to know at a glance how their computer is performing.  Windows does not come with such functionality 'out of the box' - thus SysTray
 
 ### How much does it cost?
 SysTray is Free and Open Source Software (FOSS).  It's yours to use freely.  I hope you find it useful and enjoyable.
@@ -27,7 +25,7 @@ SysTray is Free and Open Source Software (FOSS).  It's yours to use freely.  I h
 ### Why did you make it?
 As a daily user of Windows who is usually running many programs at once, at times I'd find my computer unresponsive.  Was the memory consumed?  Was the processor fully utilized?  Were my disc drives spinning at the speed of light?  Being a developer, I wanted to provide myself with information about the state of my computer to answer these questions.  After I got so far along into writing the application, I figured others could find it of use as well.  So I am putting it on GitHub for others to enjoy, and to provide transparency of the code and what it is doing.
 
-No spyware.  No keyloggers.  No cryptomining.  No malware.  No adware.  No evil-doers.
+**No spyware.  No keyloggers.  No cryptomining.  No malware.  No adware.  No evil supervillians.**
 
 Just a simple application to add some functionality to your Windows computer.
 

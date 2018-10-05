@@ -3,7 +3,7 @@
 *A lean system tray monitor for your Windows machine*
 
 ![Systray In Taskbar](assets/SysTray_Desktop_01.png)
-![Right Click Menu](assets/SysTray_desktop_02.png)
+![Right Click Menu](assets/SysTray_Desktop_02.png)
 ![Settings Window](assets/SysTray_desktop_03.png)
 
 ### Download SysTray

@@ -4,7 +4,7 @@
 winexe
 C#
 .cs
-C:\Users\dwe3sd\Source\Repos\SysTray\src\SysTray\obj\Debug\
+C:\Users\david\Source\Repos\david-osborne\SysTray\src\SysTray\obj\Debug\
 SysTray
 none
 false
@@ -16,5 +16,5 @@ DEBUG;TRACE
 16132677950
 MainWindow.xaml;
 
-False
+True
 

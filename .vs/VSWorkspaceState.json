@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets"
+    "\\assets",
+    "\\src",
+    "\\src\\SysTray"
   ],
-  "SelectedNode": "\\assets\\SysTray_desktop.png",
+  "SelectedNode": "\\assets\\icon.ico",
   "PreviewInSolutionExplorer": false
 }

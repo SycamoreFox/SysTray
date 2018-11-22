@@ -11,7 +11,7 @@ namespace SysTray
     {
         private string iconType;
         private int iconIndex;
-        private int usageValue;
+        //private int usageValue;
         public System.Timers.Timer t = new System.Timers.Timer();
 
         public void IconGenerate(int inputIconIndex, int inputInterval, string passedIconType)

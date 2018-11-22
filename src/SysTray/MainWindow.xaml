@@ -197,19 +197,6 @@
                                         </StackPanel>
                                     </CheckBox.ToolTip>
                                 </CheckBox>
-                                <CheckBox Style="{StaticResource CheckboxStyle}" Content="Coffee" ToolTipService.ShowDuration="60000">
-                                    <CheckBox.ToolTip>
-                                        <StackPanel Orientation="Vertical">
-                                            <TextBlock FontWeight="Bold">Coffee</TextBlock>
-                                            <TextBlock TextWrapping="Wrap">
-                                        Keeps the computer in a wake state by simulating a F15 keypress every minute.<LineBreak/><LineBreak/>
-                                        (Left) Click the tray icon to activate or deactivate Coffee.  You'll know it's on when the coffee steam is animated and the cup is wide awake.<LineBreak/><LineBreak/>
-                                        The F15 key is commonly used for similar utilities, as it has the least interference with Windows applictions.<LineBreak/><LineBreak/>
-                                        One known issue is that in MS PowerPoint, a 'ding' sound will be heard when the keypress is simulated.
-                                            </TextBlock>
-                                        </StackPanel>
-                                    </CheckBox.ToolTip>
-                                </CheckBox>
                             </StackPanel>
                         </GroupBox>
                         <GroupBox Header="Other Settings">
@@ -266,6 +253,11 @@
                     </StackPanel>
                 </TabItem.Header>
                 <!--start tab content-->
+                <TextBlock FontSize="16" FontWeight="Normal" Margin="10" TextWrapping="Wrap">
+                    <Run Foreground="Transparent">-</Run>
+                    SysTray is a labor of love and provided to you freely.  If you would like to support it's development, and it's developer - your donations are greatly appreciated.
+                </TextBlock>
+                
                 <!--end tab content-->
             </TabItem>
         </TabControl>

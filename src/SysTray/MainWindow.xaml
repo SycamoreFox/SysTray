@@ -243,6 +243,16 @@
                     </StackPanel>
                 </TabItem.Header>
                 <!--start tab content-->
+                <StackPanel Orientation="Vertical">
+                    <Image Source="Resources/SysTray_desktop3.png" Width="500" Margin="0,0,3,0"/>
+                    <TextBlock FontWeight="Normal" Margin="10,10,10,10">
+                    <Run Foreground="Transparent"> </Run>
+                    Hello, I'm David, and this is my program, SysTray.<LineBreak/>
+                    I hope you find it useful and enjoyable.
+
+                    </TextBlock>
+
+                </StackPanel>
                 <!--end tab content-->
             </TabItem>
             <TabItem>

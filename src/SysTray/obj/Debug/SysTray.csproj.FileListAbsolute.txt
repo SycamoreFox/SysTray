@@ -18,11 +18,11 @@ C:\Users\dwe3sd\Source\Repos\SysTray\src\SysTray\bin\Debug\SysTray.pdb
 C:\Users\dwe3sd\Source\Repos\SysTray\src\SysTray\obj\Debug\SysTray.csprojAssemblyReference.cache
 C:\Users\dwe3sd\Source\Repos\SysTray\src\SysTray\obj\Debug\MainWindow.g.cs
 C:\Users\dwe3sd\Source\Repos\SysTray\src\SysTray\obj\Debug\SysTray_MarkupCompile.cache
-C:\Users\dwe3sd\Source\Repos\SysTray\src\SysTray\obj\Debug\SysTray_MarkupCompile.lref
-C:\Users\dwe3sd\Source\Repos\SysTray\src\SysTray\obj\Debug\MainWindow.baml
 C:\Users\dwe3sd\Source\Repos\SysTray\src\SysTray\obj\Debug\SysTray.g.resources
 C:\Users\dwe3sd\Source\Repos\SysTray\src\SysTray\obj\Debug\SysTray.Properties.Resources.resources
 C:\Users\dwe3sd\Source\Repos\SysTray\src\SysTray\obj\Debug\SysTray.csproj.GenerateResource.cache
 C:\Users\dwe3sd\Source\Repos\SysTray\src\SysTray\obj\Debug\SysTray.csproj.CoreCompileInputs.cache
 C:\Users\dwe3sd\Source\Repos\SysTray\src\SysTray\obj\Debug\SysTray.exe
 C:\Users\dwe3sd\Source\Repos\SysTray\src\SysTray\obj\Debug\SysTray.pdb
+C:\Users\dwe3sd\Source\Repos\SysTray\src\SysTray\obj\Debug\SysTray_MarkupCompile.lref
+C:\Users\dwe3sd\Source\Repos\SysTray\src\SysTray\obj\Debug\mainwindow.baml

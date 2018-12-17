@@ -249,7 +249,7 @@
                     <Run Foreground="Transparent"></Run>
                     Systray is a little application that runs in the Windows system tray, and provides you with some helpful information about the state of your machine.
                     </TextBlock>
-                    <Image Source="Resources/SysTray_desktop4.png" Width="500" Margin="0,0,3,0"/>
+                    <Image Source="Resources/SysTray_desktop4.png" Width="490" Height="36" Margin="0" HorizontalAlignment="Center"/>
                     <TextBlock FontWeight="Bold" Text="Why SysTray?" Margin="4,4,0,0"/>
                     <TextBlock FontWeight="Normal" Margin="4" TextWrapping="Wrap">
                     <Run Foreground="Transparent"></Run>

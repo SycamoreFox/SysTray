@@ -147,5 +147,8 @@
   <ItemGroup>
     <Resource Include="Resources\SysTray_desktop3.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\SysTray_desktop4.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

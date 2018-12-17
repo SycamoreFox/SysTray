@@ -244,14 +244,22 @@
                 </TabItem.Header>
                 <!--start tab content-->
                 <StackPanel Orientation="Vertical">
-                    <Image Source="Resources/SysTray_desktop3.png" Width="500" Margin="0,0,3,0"/>
-                    <TextBlock FontWeight="Normal" Margin="10,10,10,10">
-                    <Run Foreground="Transparent"> </Run>
-                    Hello, I'm David, and this is my program, SysTray.<LineBreak/>
-                    I hope you find it useful and enjoyable.
-
+                    <TextBlock FontWeight="Bold" Text="What is SysTray?" Margin="4,4,0,0"/>
+                    <TextBlock FontWeight="Normal" Margin="4" TextWrapping="Wrap">
+                    <Run Foreground="Transparent"></Run>
+                    Systray is a little application that runs in the Windows system tray, and provides you with some helpful information about the state of your machine.
                     </TextBlock>
-
+                    <Image Source="Resources/SysTray_desktop4.png" Width="500" Margin="0,0,3,0"/>
+                    <TextBlock FontWeight="Bold" Text="Why SysTray?" Margin="4,4,0,0"/>
+                    <TextBlock FontWeight="Normal" Margin="4" TextWrapping="Wrap">
+                    <Run Foreground="Transparent"></Run>
+                    Many Windows users want to know at a glance how their computer is performing. Windows does not come with such functionality 'out of the box' - thus SysTray
+                    </TextBlock>
+                    <TextBlock FontWeight="Bold" Text="Support or Contact" Margin="4,4,0,0"/>
+                    <TextBlock FontWeight="Normal" Margin="4" TextWrapping="Wrap">
+                    <Run Foreground="Transparent"></Run>
+                    Having trouble with SysTray? You can either file an issue here on GitHub, or contact me and I’ll help you sort it out.
+                    </TextBlock>
                 </StackPanel>
                 <!--end tab content-->
             </TabItem>

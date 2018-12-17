@@ -271,11 +271,24 @@
                     </StackPanel>
                 </TabItem.Header>
                 <!--start tab content-->
-                <TextBlock FontSize="16" FontWeight="Normal" Margin="10" TextWrapping="Wrap">
+                <StackPanel Orientation="Vertical" Margin="8">
+                    <TextBlock FontSize="14" FontWeight="Normal" TextWrapping="Wrap" Margin="0,8,0,0">
                     <Run Foreground="Transparent">-</Run>
-                    SysTray is a labor of love and provided to you freely.  If you would like to support it's development, and it's developer - your donations are greatly appreciated.
-                </TextBlock>
-                
+                    SysTray is a labor of love and provided to you freely.  However, my time and resources (internet, electricity, hardware, coffee, etc) are not free.
+                    </TextBlock>
+                    <TextBlock FontSize="14" FontWeight="Normal" TextWrapping="Wrap" Margin="0,8,0,0">
+                If SysTray is beneficial to you as an (individual, team, project, or employer), your support and appreciation is welcomed.
+                    </TextBlock>
+                    <TextBlock FontSize="14" FontWeight="Normal" TextWrapping="Wrap" Margin="0,8,0,0">
+                The easiest way to support me is thru the purchase of an eGift card (in any amount) thru Amazon.com
+                    </TextBlock>
+                    <TextBlock FontSize="14" FontWeight="Normal" TextWrapping="Wrap" Margin="0,8,0,0">
+                Click here to see my Amazon.com Wish List, and please use david.osborne@outlook.com as the recipient address.
+                    </TextBlock>
+                    <TextBlock FontSize="16" FontWeight="Normal" HorizontalAlignment="Right" Margin="0,14,40,0" FontFamily="Segoe Print">Thank you,</TextBlock>
+                    <Image Source="Resources/david.png" Width="68" Height="22" HorizontalAlignment="Right" Margin="0,0,40,0"/>
+                </StackPanel>
+
                 <!--end tab content-->
             </TabItem>
         </TabControl>

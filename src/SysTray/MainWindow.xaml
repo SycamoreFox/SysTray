@@ -262,7 +262,7 @@
                         <TextBlock FontWeight="DemiBold" Text="SysTray is hosted by GitHub" Margin="0,6,0,0"/>
                         <Image Source="Resources/GitHub-Mark-32px.png" Margin="4,0"/>
                         <TextBlock Margin="0,6,0,0" FontWeight="Normal">
-                            <Hyperlink NavigateUri="https://github.com/david-osborne/SysTray" RequestNavigate="Hyperlink_RequestNavigate">github.com/david-osborne/SysTray</Hyperlink>
+                            <Hyperlink NavigateUri="https://david-osborne.github.io/SysTray/" RequestNavigate="Hyperlink_RequestNavigate">david-osborne.github.io/SysTray/</Hyperlink>
                         </TextBlock>
                     </StackPanel>
 
@@ -429,14 +429,16 @@
                 If SysTray is beneficial to you as an (individual, team, project, or employer), your support and appreciation is welcomed.
                     </TextBlock>
                     <TextBlock FontSize="14" FontWeight="Normal" TextWrapping="Wrap" Margin="0,6,0,0">
-                The easiest way to support me is thru the purchase of an eGift card (in any amount) thru Amazon.com
+                        The easiest way to support me is thru the purchase of an eGift card (in any amount) thru Amazon.com on 
+                        <Hyperlink NavigateUri="https://www.amazon.com/registry/wishlist/2DUMMCC8Z7EP0" RequestNavigate="Hyperlink_RequestNavigate">my Wish List</Hyperlink>
+                        with david.osborne@outlook.com as the recipient address.
                     </TextBlock>
                     <TextBlock FontSize="14" FontWeight="Normal" TextWrapping="Wrap" Margin="0,6,0,0">
-                        <Hyperlink NavigateUri="https://www.amazon.com/registry/wishlist/2DUMMCC8Z7EP0" RequestNavigate="Hyperlink_RequestNavigate">Click here to see my Amazon.com Wish List</Hyperlink>
-                , and please use david.osborne@outlook.com as the recipient address.
+                        Thank you for using SysTray, and for your support.
+                        
                     </TextBlock>
                     <StackPanel Orientation="Vertical">
-                        <TextBlock FontSize="14" FontWeight="Normal" HorizontalAlignment="Right" FontFamily="Segoe Print" Margin="0,0,40,0">Thank you,</TextBlock>
+                        <TextBlock FontSize="14" FontWeight="Normal" HorizontalAlignment="Right" FontFamily="Segoe Print" Margin="0,0,40,0">Sincerely,</TextBlock>
                         <Image Source="Resources/david.png" Width="68" Height="22" HorizontalAlignment="Right" Margin="0,0,40,0"/>
                         <Image Source="Resources/craftedby.png" Width="220" Height="16"/>
                     </StackPanel>

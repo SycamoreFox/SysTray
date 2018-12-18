@@ -153,5 +153,17 @@
   <ItemGroup>
     <Resource Include="Resources\david.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\GitHub-Mark-32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="COPYING.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\gpl-v3-logo-black.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\GreetingsUser.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

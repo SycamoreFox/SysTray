@@ -419,8 +419,8 @@
                     </StackPanel>
                 </TabItem.Header>
                 <!--start tab content-->
-                <StackPanel Orientation="Vertical" Margin="8">
-                    <Image Source="Resources/GreetingsUser.png" Height="13" HorizontalAlignment="Left"/>
+                <StackPanel Orientation="Vertical" Margin="4">
+                    <Image Source="Resources/GreetingsUser.png" Height="13" HorizontalAlignment="Left" />
                     <TextBlock FontSize="14" FontWeight="Normal" TextWrapping="Wrap" Margin="0,4,0,0">
                     <Run Foreground="Transparent">-</Run>
                     SysTray is a labor of love and provided to you freely.  However, my time and resources (internet, electricity, hardware, coffee, etc) are not free.

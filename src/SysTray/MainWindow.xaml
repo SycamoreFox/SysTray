@@ -254,7 +254,7 @@
                     <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
                         <TextBlock FontWeight="DemiBold" Text="Copyright and created by David Osborne 2018"/>
                         <TextBlock FontWeight="Normal" Margin="10,0,0,0">
-                            <Hyperlink NavigateUri="mailto://david.osborne@outlook.com" RequestNavigate="Hyperlink_RequestNavigate">e-mail me</Hyperlink>
+                            <Hyperlink NavigateUri="mailto://david.osborne@outlook.com" RequestNavigate="Hyperlink_RequestNavigate">contact me</Hyperlink>
                         </TextBlock>
                     </StackPanel>
 
